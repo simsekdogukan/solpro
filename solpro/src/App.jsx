@@ -40,7 +40,7 @@ function App() {
           className="text-center"
         >
           <h1 className="text-4xl md:text-5xl font-light text-slate-200 mb-6 tracking-wide">
-            Under construction by solpro
+            Under construction by SolPro
           </h1>
           <a 
             href="mailto:info@solpro-tr.com"
